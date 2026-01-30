@@ -1,0 +1,66 @@
+body {
+    background-color: #26A2D4;
+}
+
+.hero {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 7%;
+    text-align: center;
+    align-items: center;
+}
+
+.title {
+    color: #F2F6F8;
+    font-size: 45px;
+}
+
+.botones {
+  display: flex;
+  gap: 22px;
+  justify-content: center;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 28px;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 1rem;
+  color: white;
+  text-decoration: none;
+  transition: 
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    background 0.25s ease;
+}
+
+.btn:hover {
+  transform: translateY(-4px) scale(1.03);
+}
+
+.github {
+  background: #24292e;
+}
+.github:hover {
+  box-shadow: 0 0 25px rgba(36, 41, 46, 0.6);
+}
+
+.youtube {
+  background: #ff0000;
+}
+.youtube:hover {
+  box-shadow: 0 0 25px rgba(255, 0, 0, 0.6);
+}
+
+.twitter {
+  background: #0B5ED7;
+}
+.twitter:hover {
+  box-shadow: 0 0 25px rgba(11, 94, 215, 0.65);
+}
+
+.btn i {
+  font-size: 1.2rem;
+}
