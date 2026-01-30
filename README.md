@@ -8,7 +8,7 @@ My portfolio, developing in HTML, CSS and JS.
 
 **Screenshot:**
 
-![imagen](https://ibb.co/n8bpcjPd)
+![imagen](./capture.jpeg)
 
 
 Thanks for read, this site has been developed by me with a lot of love. <3
