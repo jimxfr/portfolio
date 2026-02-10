@@ -14,6 +14,20 @@ body {
     font-size: 45px;
 }
 
+.descripcion {
+    width: 700px;             
+    max-width: 90%;              
+    text-align: center;      
+    margin: 20px auto;
+    display: flex;              
+    justify-content: center;
+    align-items: center;
+    color: #f2f6f8f0;
+    padding: 1%;
+    font-size: 25px;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+}
+
 .botones {
   display: flex;
   gap: 22px;
